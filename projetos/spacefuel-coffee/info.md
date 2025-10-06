@@ -8,4 +8,4 @@ Projeto de Identidade Visual para uma cafeteria com temática futurista, junto d
 
 **Capa:** Cookie_Meteorito_Animação.mp4
 
-#MotionDesign #IdentidadeVisual #DesignGráfico #AnimaçãodeLogo
+#Motion-Design #Identidade-Visual #Design-Gráfico #Animação-de-Logo

@@ -8,4 +8,4 @@ Projeto de Identidade Visual para um app de música com temática de natureza re
 
 **Capa:** 1.mp4
 
-#MotionDesign #IdentidadeVisual #DesignGráfico #AnimaçãodeLogo
+#Motion-Design #Identidade-Visual #Design-Gráfico #Animação-de-Logo
